@@ -147,12 +147,6 @@ highlighting trends, high-risk areas, and potential solutions.
 
 ---
 
-## 📂 Project Files & Resources  
-
-📎 **Power BI Dashboard:** [`Download here`](#)  
-📎 **SQL Queries:** [`View SQL scripts`](#)  
-📎 **Dataset Source:** [`Kaggle Dataset`](#)  
-
-🔔 **Follow for more updates & future projects!**  
+## END
 
 ---
